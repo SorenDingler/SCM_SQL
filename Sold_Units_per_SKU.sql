@@ -13,4 +13,4 @@ and Invoiced_DB3_aD >0
 --and productname like 'Emporio Armani YOU%'
 --and brand = 'Emporio Armani'
 GROUP BY ProductBusinessID, ProductName
-ORDER BY Verk�ufe desc
+ORDER BY Sold_Units desc
